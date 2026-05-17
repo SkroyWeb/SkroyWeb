@@ -34,12 +34,8 @@ Over time, I transitioned those foundations into modern industry-standard ecosys
 
 ## Languages
 - Python
-- c
-- c++
 - Java
-- HTML5
-- CSS3
-- JavaScript
+- C++
 - SQL
 
 ---
