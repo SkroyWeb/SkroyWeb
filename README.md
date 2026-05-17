@@ -2,8 +2,7 @@
 
 ### Aspiring Software Engineer | Full Stack Developer | AI-Integrated System Builder
 
-I started my development journey during 11th–12th grade while balancing competitive exam preparation.  
-Instead of directly depending on frameworks from the beginning, I focused heavily on understanding how systems work underneath.
+My development journey has been driven by a strong interest in understanding how systems work beneath the abstraction layer. Instead of limiting myself to framework-centric development, I focused heavily on building strong fundamentals in software engineering, frontend architecture, backend coordination, deployment workflows, and product-oriented problem solving.
 
 That journey helped me develop strong foundations in:
 - programming logic,
