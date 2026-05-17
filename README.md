@@ -54,10 +54,11 @@ Over time, I transitioned those foundations into modern industry-standard ecosys
 ## Backend & APIs
 - Python Backend Development
 - FastAPI
+- Node.js
+- Express.js
 - REST APIs
 - Authentication Systems
 - JWT-Based Authorization
-- File-Based Persistence Architectures
 - Backend-Frontend Coordination
 - Deployment Pipelines
 
@@ -65,6 +66,9 @@ Over time, I transitioned those foundations into modern industry-standard ecosys
 
 ## Databases & Infrastructure
 - PostgreSQL
+- MongoDB
+- Mongoose
+- File-Based Persistence Architectures
 - GitHub-Based Data Management
 - Render
 - Git & GitHub
@@ -74,12 +78,12 @@ Over time, I transitioned those foundations into modern industry-standard ecosys
 
 ## AI & Modern Development Ecosystem
 - Ollama
+- LangChain
+- Spring AI
 - Local LLM Workflows
 - AI API Integrations
 - Retrieval-Augmented Generation (RAG)
 - AI-Assisted Development Workflows
-- LangChain
-- Spring AI
 - Vector Database Concepts
 
 ---
@@ -99,6 +103,7 @@ I enjoy:
 # 📌 Development Journey
 
 My early development phase focused heavily on:
+- Python(GUI)
 - core programming,
 - browser behavior,
 - frontend fundamentals,
