@@ -147,8 +147,8 @@ To build scalable products that combine:
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/SkroyWeb
+- LinkedIn: https://in.linkedin.com/in/satyam-k-r-3b247234a
 
 ---
 
