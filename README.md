@@ -17,7 +17,7 @@ Over time, I transitioned those foundations into modern industry-standard ecosys
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
 - Full Stack Engineering
 - AI-Powered Applications
