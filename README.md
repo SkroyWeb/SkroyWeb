@@ -36,6 +36,7 @@ Over time, I transitioned those foundations into modern industry-standard ecosys
 - Java
 - C++
 - SQL
+- JavaScript
 
 ---
 
