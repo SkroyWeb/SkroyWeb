@@ -32,8 +32,8 @@ Over time, I transitioned those foundations into modern industry-standard ecosys
 # 🧠 Tech Stack
 
 ## Languages
-- Python
 - Java
+- Python
 - C++
 - SQL
 - JavaScript
