@@ -41,7 +41,7 @@ Over time, I transitioned those foundations into modern industry-standard ecosys
 ---
 
 ## Frontend Engineering
-- Vanilla JavaScript
+- JavaScript
 - DOM Manipulation
 - SPA Architectures
 - Responsive UI Systems
