@@ -1,156 +1,139 @@
-# Hey, I'm Satyam Kumar Roy 👋
+<div align="center">
 
-### Aspiring Software Engineer | Full Stack Developer | AI-Integrated System Builder
+Satyam Kumar Roy
 
-My development journey has been driven by a strong interest in understanding how systems work beneath the abstraction layer. Instead of limiting myself to framework-centric development, I focused heavily on building strong fundamentals in software engineering, frontend architecture, backend coordination, deployment workflows, and product-oriented problem solving.
+Full-Stack Engineer · AI-Integrated Systems Builder · Product-Minded Developer
 
-That journey helped me develop strong foundations in:
-- programming logic,
-- frontend engineering,
-- backend coordination,
-- deployment workflows,
-- authentication systems,
-- architectural thinking,
-- and independent problem solving.
+<p>
+<a href="https://github.com/SkroyWeb"><img src="https://img.shields.io/badge/GitHub-SkroyWeb-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
+  <a href="https://in.linkedin.com/in/satyam-k-r-3b247234"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+</p> </div>
 
-Over time, I transitioned those foundations into modern industry-standard ecosystems including scalable frontend architectures, backend systems, AI-integrated development, and collaborative engineering workflows.
 
----
+I build software from first principles, then use modern frameworks and AI capabilities to turn strong foundations into practical products.
 
-# Current Focus
+About Me
 
-- Full Stack Engineering
-- AI-Powered Applications
-- Scalable Web Platforms
-- Backend Architecture
-- System Design Thinking
-- DSA & Competitive Programming
-- Product-Oriented Development
+I am an aspiring software engineer focused on full-stack development, backend architecture, scalable web platforms, and AI-powered applications. My approach is deliberately fundamentals-first: I like understanding what happens beneath the abstraction layer before relying on the abstraction itself.
 
----
+That mindset has shaped my work across programming logic, frontend architecture, backend coordination, authentication, deployment workflows, system design, and independent product development. I am now applying those foundations to modern engineering ecosystems and collaborative development workflows.
 
-# 🧠 Tech Stack
+What I’m Focused On
 
-## Languages
-- Java
-- Python
-- C++
-- SQL
-- JavaScript
+Area
+Direction
+Full-stack engineering
+Designing complete user-facing products from interface to API and data layer
+AI-powered applications
+Exploring LLM integrations, local model workflows, and retrieval-augmented generation
+Backend architecture
+Building structured APIs, authentication flows, and maintainable service boundaries
+Scalable web platforms
+Learning how reliable frontend, backend, database, and deployment systems work together
+Problem solving
+Strengthening data structures, algorithms, and system-design thinking
+Product engineering
+Turning technical ideas into useful, real-world solutions
 
----
 
-## Frontend Engineering
-- JavaScript
-- DOM Manipulation
-- SPA Architectures
-- Responsive UI Systems
-- React
-- Next.js
-- Tailwind CSS
-- Vite
 
----
 
-## Backend & APIs
-- Python Backend Development
-- FastAPI
-- Node.js
-- Express.js
-- REST APIs
-- Authentication Systems
-- JWT-Based Authorization
-- Backend-Frontend Coordination
-- Deployment Pipelines
+Technical Toolkit
 
----
+Languages
 
-## Databases & Infrastructure
-- PostgreSQL
-- MongoDB
-- Mongoose
-- File-Based Persistence Architectures
-- GitHub-Based Data Management
-- Render
-- Git & GitHub
-- Linux Environment Exposure
+Java Python C++ SQL JavaScript
 
----
+Frontend Engineering
 
-## AI & Modern Development Ecosystem
-- Ollama
-- LangChain
-- Spring AI
-- Local LLM Workflows
-- AI API Integrations
-- Retrieval-Augmented Generation (RAG)
-- AI-Assisted Development Workflows
-- Vector Database Concepts
+React Next.js Vite Tailwind CSS DOM Manipulation SPA Architecture Responsive UI Systems
 
----
+Backend and APIs
 
-# 🏗️ Engineering Approach
+FastAPI Node.js Express.js REST APIs JWT Authorization Authentication Systems Frontend–Backend Coordination
 
-I enjoy:
-- understanding systems deeply,
-- solving problems from fundamentals,
-- exploring architecture-level thinking,
-- designing scalable workflows,
-- building real-world products,
-- and adapting modern abstractions with strong foundational understanding.
+Data and Infrastructure
 
----
+PostgreSQL MongoDB Mongoose File-Based Persistence Git GitHub Render Linux Environments Deployment Pipelines
 
-# 📌 Development Journey
+AI and Intelligent Systems
 
-My early development phase focused heavily on:
-- Python(GUI)
-- core programming,
-- browser behavior,
-- frontend fundamentals,
-- deployment experimentation,
-- backend logic,
-- and independent product engineering.
+Ollama LangChain Spring AI Local LLM Workflows AI API Integrations RAG Vector Database Concepts AI-Assisted Development
 
-Instead of limiting myself to tutorial-based development, I explored how systems actually work internally and built practical solutions around those ideas.
+How I Build
 
-That experience helped me develop a strong engineering mindset before transitioning into modern scalable ecosystems involving:
-- frontend frameworks,
-- standardized backend architectures,
-- database systems,
-- AI-integrated applications,
-- and collaborative workflows.
+My engineering process is guided by a few consistent principles:
 
----
+•
+Understand the system. I study the underlying behavior instead of treating frameworks as black boxes.
 
-# 📈 Currently Exploring
+•
+Start with fundamentals. I break problems down before choosing tools, patterns, or abstractions.
 
-- Advanced Full Stack Architectures
-- AI-Integrated Backend Systems
-- Java Ecosystem & Enterprise Concepts
-- Scalable API Design
-- DSA & Problem Solving
-- Modern Deployment Workflows
-- Product Engineering
+•
+Design for coordination. A useful product depends on the interface, API, data, authentication, and deployment working as one system.
 
----
+•
+Build with purpose. I prefer practical projects that solve a real problem or teach a meaningful engineering concept.
 
-# 🌱 Long-Term Vision
+•
+Keep learning deliberately. I continuously explore new ecosystems while strengthening the foundations beneath them.
 
-To build scalable products that combine:
-- strong engineering fundamentals,
-- modern development ecosystems,
-- backend architectures,
-- AI integrations,
-- and real-world product thinking.
+The Journey So Far
 
----
+My early development work centered on Python GUI development, core programming, browser behavior, frontend fundamentals, backend logic, deployment experimentation, and independent product engineering.
 
-# 📫 Connect With Me
+Rather than following only tutorial-driven paths, I spent time exploring how software behaves internally and how separate parts of a product communicate. That experience gave me an engineering foundation that now supports my transition into modern frontend frameworks, standardized backend architectures, database systems, AI-integrated applications, and collaborative workflows.
 
-- GitHub: https://github.com/SkroyWeb
-- LinkedIn: https://in.linkedin.com/in/satyam-k-r-3b247234a
+Currently Exploring
 
----
+•
+Advanced full-stack architectures
 
-> “Strong fundamentals make adapting to new technologies faster.”
+•
+AI-integrated backend systems
+
+•
+Java ecosystems and enterprise concepts
+
+•
+Scalable API design
+
+•
+Data structures and algorithms
+
+•
+Modern deployment workflows
+
+•
+Product-oriented software engineering
+
+Long-Term Direction
+
+I want to build scalable products at the intersection of solid engineering fundamentals, modern development ecosystems, backend architecture, artificial intelligence, and real-world product thinking.
+
+The goal is not simply to use more tools. It is to understand how the tools fit together, choose them intentionally, and use them to create software that is reliable, maintainable, and genuinely useful.
+
+Let’s Connect
+
+If you are interested in full-stack engineering, AI-integrated products, backend systems, or thoughtful developer collaboration, feel free to connect with me:
+
+•
+GitHub: @SkroyWeb
+
+•
+LinkedIn: Satyam Kumar Roy
+
+
+
+
+<div align="center">
+
+Fundamentals first. Modern systems next. Useful products always.
+
+</div>
+
+References
+
+[1] Satyam Kumar Roy on GitHub
+[2] Satyam Kumar Roy on LinkedIn
