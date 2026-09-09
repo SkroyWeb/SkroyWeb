@@ -1,159 +1,228 @@
-<div align="center">
-
-Satyam Kumar Roy
-
-AI-Integrated Full-Stack Systems Specialist
-
-Backend Architecture · Intelligent Applications · Scalable Web Products
-
-<p>
-<a href="https://github.com/SkroyWeb"><img src="https://img.shields.io/badge/GitHub-SkroyWeb-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://in.linkedin.com/in/satyam-k-r-3b247234"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-</p> </div>
-
-
-I specialize in connecting reliable backend systems, modern web interfaces, and practical AI capabilities into products that are understandable, maintainable, and built to grow.
-
-Specialist Profile
-
-I am a full-stack engineer specializing in the design and development of AI-integrated web systems. My strongest interest lies at the intersection of backend architecture, intelligent application workflows, and product-focused frontend engineering.
-
-I do not approach development as a collection of disconnected frameworks. I focus on how the complete system works: how a user interacts with a product, how the frontend communicates with the backend, how authentication protects the workflow, how data is persisted, how AI capabilities are integrated, and how the application is deployed.
-
-My work is grounded in software fundamentals and applied through modern engineering tools. This allows me to build beyond isolated features and think in terms of systems, boundaries, data flow, reliability, and user value.
-
-Core Specialization
-
-Specialty
-What I Work On
-AI-integrated applications
-LLM APIs, local model workflows, retrieval-augmented generation, LangChain, Spring AI, and vector database concepts
-Backend systems
-REST APIs, authentication, JWT-based authorization, service coordination, persistence, and deployment-ready application structure
-Full-stack architecture
-Connecting responsive interfaces, frontend state and behavior, backend services, databases, and product workflows
-Intelligent product workflows
-Designing practical AI features that support real application functionality instead of adding AI as a superficial layer
-Engineering foundations
-Programming logic, data structures, algorithms, system thinking, debugging, and independent problem solving
+<!-- =====================================================
+SATYAM KUMAR ROY — GITHUB PROFILE README
+     Premium dark, specialist-focused profile layout
+====================================================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:123c69,100:00d4ff&height=220&section=header&text=Satyam%20Kumar%20Roy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI-Integrated%20Systems%20Specialist&descAlignY=60&descSize=18" width="100%" alt="Satyam Kumar Roy header" /> <a href="https://github.com/SkroyWeb">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Designing+AI-integrated+backend+systems;Building+scalable+full-stack+products;Engineering+with+fundamentals+first;Turning+complex+workflows+into+useful+software" alt="Typing introduction" />
+</a> <p>
+  <a href="https://github.com/SkroyWeb"><img src="https://img.shields.io/badge/GitHub-SkroyWeb-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://in.linkedin.com/in/satyam-k-r-3b247234"><img src="https://img.shields.io/badge/LinkedIn-Satyam%20Kumar%20Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SkroyWeb&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile views" />
+</p> </div>   
 
 
 
+whoami
 
-Technical Expertise
+Plain Text
+
+
+┌──────────────────────────────────────────────────────────────────────┐
+│  Satyam Kumar Roy                                                    │
+│  AI-Integrated Full-Stack Systems Specialist                        │
+├──────────────────────────────────────────────────────────────────────┤
+│  Focus      → Intelligent backends · APIs · scalable web products    │
+│  Approach   → Fundamentals first · architecture conscious           │
+│  Mission    → Build useful software with reliable system design      │
+└──────────────────────────────────────────────────────────────────────┘
+
+
+
+I specialize in connecting backend architecture, modern web interfaces, and practical AI capabilities into complete product systems. My interest is not limited to using frameworks; I focus on understanding the data flow, system boundaries, authentication, persistence, model integration, and deployment decisions that make a product work as a whole.
+
+
+Specialist positioning: AI-integrated backend systems and full-stack product architecture.
+
+specialization.map( )
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+AI Systems
+
+•
+LLM API integration
+
+•
+Local model workflows
+
+•
+Retrieval-augmented generation
+
+•
+Context-aware application flows
+
+•
+Vector database concepts
+
+•
+LangChain and Spring AI
+
+</td>
+<td width="33%" valign="top">
+
+Backend Architecture
+
+•
+REST API design
+
+•
+Authentication systems
+
+•
+JWT authorization
+
+•
+Data persistence
+
+•
+Service coordination
+
+•
+Deployment-ready structure
+
+</td>
+<td width="33%" valign="top">
+
+Full-Stack Products
+
+•
+Responsive interfaces
+
+•
+SPA architecture
+
+•
+Frontend–backend integration
+
+•
+Product workflows
+
+•
+Scalable web platforms
+
+•
+Practical user-focused delivery
+
+</td>
+</tr>
+</table>   
+
+
+
+technology.architecture
 
 Application Layer
 
-React · Next.js · Vite · Tailwind CSS · JavaScript · DOM Manipulation · SPA Architecture · Responsive UI Systems
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,js,html,css" alt="Frontend technologies" />
+</p>
 
-Backend Layer
+React · Next.js · Vite · Tailwind CSS · JavaScript · DOM Manipulation · SPA Architecture · Responsive UI
 
-Python · FastAPI · Node.js · Express.js · REST APIs · Authentication Systems · JWT Authorization · Frontend–Backend Integration
+Service Layer
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,java" alt="Backend technologies" />
+</p>
+
+Python · FastAPI · Node.js · Express.js · Java · REST APIs · JWT · Authentication
 
 Data and Delivery Layer
 
-PostgreSQL · MongoDB · Mongoose · SQL · File-Based Persistence · Git · GitHub · Render · Linux · Deployment Workflows
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,linux,docker" alt="Data and infrastructure technologies" />
+</p>
 
-AI Engineering Layer
+PostgreSQL · MongoDB · Mongoose · SQL · Git · GitHub · Linux · Render · Deployment Workflows
 
-Ollama · LangChain · Spring AI · Local LLM Workflows · AI API Integrations · Retrieval-Augmented Generation · Vector Database Concepts
+Intelligence Layer
 
-Engineering Languages
+<p>
+<img src="https://img.shields.io/badge/Ollama-Local%20LLM%20Workflows-111827?style=for-the-badge" alt="Ollama" />
+<img src="https://img.shields.io/badge/LangChain-LLM%20Applications-1C3C3C?style=for-the-badge" alt="LangChain" />
+<img src="https://img.shields.io/badge/Spring%20AI-Enterprise%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
+</p>
 
-Java · Python · C++ · JavaScript · SQL
+Ollama · LangChain · Spring AI · Local LLMs · AI APIs · RAG · Vector Database Concepts
 
-What I Bring to a Project
+engineering.principles
 
-1. Systems Thinking
+Principle
+How it shapes my work
+Understand the system
+I study what happens beneath the framework so that architecture decisions are intentional.
+Design the complete flow
+I connect interface, API, authorization, business logic, database, AI workflow, and deployment.
+Use AI with purpose
+I treat AI as an application capability tied to context and user value, not as a decorative feature.
+Build from fundamentals
+Strong programming logic and problem solving guide the tools and abstractions I choose.
+Prefer maintainable products
+Clear boundaries, understandable code, and practical workflows matter beyond a successful demo.
 
-I map the relationship between the interface, API, authentication layer, business logic, database, AI workflow, and deployment environment before treating a feature as complete.
 
-2. Practical AI Integration
 
-I am interested in AI as an application capability. My focus is on integrating models into useful workflows involving context, retrieval, structured backend logic, and a clear user outcome.
 
-3. Backend-First Reliability
+current.trajectory
 
-A polished interface is only one part of a strong product. I pay close attention to API structure, authorization, persistence, data flow, and the coordination required to make the application behave consistently.
+YAML
 
-4. Fundamentals Before Abstraction
 
-I build my technical judgment from core programming, browser behavior, frontend mechanics, backend logic, and problem solving. Frameworks become more useful when the underlying system is understood.
+specialist_track:
+  primary: "AI-integrated full-stack engineering"
+  deepening:
+    - "AI-enabled backend architectures"
+    - "Retrieval-augmented generation systems"
+    - "Scalable API and service design"
+    - "Advanced full-stack application structure"
+    - "Java ecosystem and enterprise concepts"
+  sharpening:
+    - "Data structures and algorithms"
+    - "System design thinking"
+    - "Production-oriented deployment workflows"
+  long_term: "Engineer intelligent products with architectural clarity"
 
-5. Product-Oriented Execution
 
-I prefer building complete, practical solutions over isolated demonstrations. A project should communicate its purpose, solve a defined problem, and remain understandable to the people who maintain it.
 
-Current Technical Direction
+github.telemetry( )
 
-My present focus is deepening expertise in the following areas:
+<div align="center"> <a href="https://github.com/SkroyWeb">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SkroyWeb&show_icons=true&hide_border=true&bg_color=0f172a&title_color=00d4ff&icon_color=38bdf8&text_color=e2e8f0&ring_color=00d4ff&include_all_commits=true" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/SkroyWeb">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkroyWeb&layout=compact&hide_border=true&bg_color=0f172a&title_color=00d4ff&text_color=e2e8f0&langs_count=8" alt="Top languages" />
+</a>   
+ <a href="https://github.com/SkroyWeb">
+  <img src="https://streak-stats.demolab.com?user=SkroyWeb&hide_border=true&background=0F172A&ring=00D4FF&fire=38BDF8&currStreakLabel=E2E8F0&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
+</a>   
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=SkroyWeb&bg_color=0f172a&color=e2e8f0&line=00d4ff&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub activity graph" /> </div>   
 
-•
-AI-integrated backend architectures
 
-•
-Retrieval-augmented generation systems
 
-•
-Scalable API and service design
+journey.log
 
-•
-Advanced full-stack application structure
+My engineering journey began with Python GUI development, core programming, browser behavior, frontend fundamentals, backend logic, deployment experimentation, and independent product engineering.
 
-•
-Java ecosystem and enterprise engineering concepts
+Those early explorations shaped a fundamentals-first mindset. I learned to look beneath the surface of a tool, understand how components communicate, and build practical solutions without depending entirely on tutorial-driven development. I now apply that foundation to modern frontend ecosystems, backend architectures, database-backed applications, and AI-integrated systems.
 
-•
-Data structures, algorithms, and system design
+connect --with-me
 
-•
-Deployment and production-oriented workflows
-
-Selected Engineering Foundation
-
-My development path began with Python GUI development, core programming, browser behavior, frontend fundamentals, backend logic, deployment experimentation, and independent product engineering.
-
-That foundation shaped the way I work today. Before moving into modern ecosystems, I focused on understanding how software behaves beneath its abstractions and how separate components communicate. I now apply that perspective to scalable frontend architectures, backend systems, database-backed products, and AI-enabled applications.
-
-Professional Positioning
-
-I am building toward a specialist role in AI-integrated full-stack engineering, with particular emphasis on backend systems, intelligent workflows, and scalable product architecture.
-
-My long-term objective is to engineer products that combine:
-
-•
-dependable software foundations,
-
-•
-clear backend architecture,
-
-•
-modern web experiences,
-
-•
-meaningful AI capabilities, and
-
-•
-disciplined product thinking.
-
-Connect
-
-I am open to conversations about AI engineering, backend architecture, full-stack product development, and opportunities to build practical intelligent systems.
-
-•
-GitHub: github.com/SkroyWeb
-
-•
-LinkedIn: Satyam Kumar Roy
+I am interested in conversations and opportunities involving AI engineering, backend architecture, full-stack product development, intelligent workflows, and scalable web systems.
 
 <div align="center">
+
+<a href="https://github.com/SkroyWeb"><img src="https://img.shields.io/badge/Explore%20my%20work-GitHub-111827?style=for-the-badge&logo=github" alt="Explore GitHub" /></a>
+<a href="https://in.linkedin.com/in/satyam-k-r-3b247234"><img src="https://img.shields.io/badge/Start%20a%20conversation-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+
+
 
 
 
 
 Building intelligent systems with architectural clarity.
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:123c69,100:0f172a&height=120&section=footer" width="100%" alt="Footer decoration" /> </div>
 
 References
 
