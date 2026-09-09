@@ -13,7 +13,6 @@ SATYAM KUMAR ROY — GITHUB PROFILE README
 
 whoami
 
-Plain Text
 
 
 ┌──────────────────────────────────────────────────────────────────────┐
